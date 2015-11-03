@@ -1,6 +1,11 @@
 Uttam Kumaran
 CSCI 204 -  Rover Project
 
+This is a project created for CSCI 204 at Bucknell University. This project utilizes various data structures
+to create the rules for the game and interactions with items in the game. Below are the instructions for the creative aspect 
+of the game located in the Creative folder
+
+
 PLEASE RUN ON A WINDOWS MACHINE. THERE MAY BE ERRORS FROM AUDIO PLAYING
 THE CREATIVE PART IS ZIPPED SEPARATELY FROM THE NORMAL PROJECT. SEE BOTH FILES IN MOODLE.
 
